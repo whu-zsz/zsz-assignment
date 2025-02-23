@@ -11,7 +11,7 @@
             NumB = double.Parse(Console.ReadLine());
             Console.WriteLine("请输入运算符(+ - * /)");
             Symbol = Console.ReadLine();
-             
+              
             switch(Symbol)
             {
                 case "+":
