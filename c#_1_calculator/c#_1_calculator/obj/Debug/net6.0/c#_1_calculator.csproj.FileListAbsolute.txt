@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\bin\Debug\net6.0\c#_1_calculator.exe
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\bin\Debug\net6.0\c#_1_calculator.deps.json
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\bin\Debug\net6.0\c#_1_calculator.runtimeconfig.json
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\bin\Debug\net6.0\c#_1_calculator.dll
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\bin\Debug\net6.0\c#_1_calculator.pdb
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\obj\Debug\net6.0\c#_1_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\obj\Debug\net6.0\c#_1_calculator.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\obj\Debug\net6.0\c#_1_calculator.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\obj\Debug\net6.0\c#_1_calculator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\obj\Debug\net6.0\c#_1_calculator.dll
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\obj\Debug\net6.0\refint\c#_1_calculator.dll
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\obj\Debug\net6.0\c#_1_calculator.pdb
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\obj\Debug\net6.0\c#_1_calculator.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\c#_1_calculator\c#_1_calculator\obj\Debug\net6.0\ref\c#_1_calculator.dll

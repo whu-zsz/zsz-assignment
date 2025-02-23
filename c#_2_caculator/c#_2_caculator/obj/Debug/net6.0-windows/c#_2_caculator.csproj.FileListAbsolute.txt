@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\bin\Debug\net6.0-windows\c#_2_caculator.exe
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\bin\Debug\net6.0-windows\c#_2_caculator.deps.json
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\bin\Debug\net6.0-windows\c#_2_caculator.runtimeconfig.json
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\bin\Debug\net6.0-windows\c#_2_caculator.dll
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\bin\Debug\net6.0-windows\c#_2_caculator.pdb
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\c__2_caculator.Form1.resources
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\c#_2_caculator.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\c#_2_caculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\c#_2_caculator.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\c#_2_caculator.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\c#_2_caculator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\c#_2_caculator.dll
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\refint\c#_2_caculator.dll
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\c#_2_caculator.pdb
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\c#_2_caculator.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\c#_2_caculator\c#_2_caculator\obj\Debug\net6.0-windows\ref\c#_2_caculator.dll
