@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\c#_4_array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBBC798-612C-4AB6-B268-B30FF0ACD60A}|c#_4_array\\c#_4_array.csproj|c:\\users\\lenovo\\source\\repos\\c#_4_array\\c#_4_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBBC798-612C-4AB6-B268-B30FF0ACD60A}|c#_4_array\\c#_4_array.csproj|solutionrelative:c#_4_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\c#_4_array\\c#_4_array\\Program.cs",
+              "RelativeDocumentMoniker": "c#_4_array\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\c#_4_array\\c#_4_array\\Program.cs",
+              "RelativeToolTip": "c#_4_array\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T02:37:33.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
