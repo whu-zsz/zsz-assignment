@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\bin\Debug\net6.0\c#_7_shapes.exe
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\bin\Debug\net6.0\c#_7_shapes.deps.json
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\bin\Debug\net6.0\c#_7_shapes.runtimeconfig.json
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\bin\Debug\net6.0\c#_7_shapes.dll
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\bin\Debug\net6.0\c#_7_shapes.pdb
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\obj\Debug\net6.0\c#_7_shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\obj\Debug\net6.0\c#_7_shapes.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\obj\Debug\net6.0\c#_7_shapes.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\obj\Debug\net6.0\c#_7_shapes.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\obj\Debug\net6.0\c#_7_shapes.dll
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\obj\Debug\net6.0\refint\c#_7_shapes.dll
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\obj\Debug\net6.0\c#_7_shapes.pdb
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\obj\Debug\net6.0\c#_7_shapes.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\c#_7_shapes\c#_7_shapes\obj\Debug\net6.0\ref\c#_7_shapes.dll
