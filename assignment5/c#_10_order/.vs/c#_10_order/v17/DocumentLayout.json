@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\c#_10_order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77B889BE-069C-4E2C-A3B8-AA9AF226A24F}|c#_10_orderTests\\c#_10_orderTests.csproj|c:\\users\\lenovo\\source\\repos\\c#_10_order\\c#_10_ordertests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B889BE-069C-4E2C-A3B8-AA9AF226A24F}|c#_10_orderTests\\c#_10_orderTests.csproj|solutionrelative:c#_10_ordertests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62A9C7-E95F-48F2-9271-60DA915AE1E8}|c#_10_order\\c#_10_order.csproj|c:\\users\\lenovo\\source\\repos\\c#_10_order\\c#_10_order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F62A9C7-E95F-48F2-9271-60DA915AE1E8}|c#_10_order\\c#_10_order.csproj|solutionrelative:c#_10_order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\c#_10_order\\c#_10_orderTests\\OrderServiceTests.cs",
+              "RelativeDocumentMoniker": "c#_10_orderTests\\OrderServiceTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\c#_10_order\\c#_10_orderTests\\OrderServiceTests.cs",
+              "RelativeToolTip": "c#_10_orderTests\\OrderServiceTests.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwFkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:01:22.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\c#_10_order\\c#_10_order\\Program.cs",
+              "RelativeDocumentMoniker": "c#_10_order\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\c#_10_order\\c#_10_order\\Program.cs",
+              "RelativeToolTip": "c#_10_order\\Program.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAASwPQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:18:26.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
